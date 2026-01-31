@@ -1,6 +1,6 @@
 ## Hi, I'm Mounika 👋
 
-🎓 Information Science Engineering student  
+🎓 Information Science and Engineering student  
 💻 Interested in Software Development, Backend Systems, and Machine Learning  
 
 ### 🛠 Skills
